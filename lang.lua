@@ -189,9 +189,9 @@ local langs = {
 		__code__ = "FR", --Language code: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 		--IN GAME SETTINGS
-		s_tab_general = "General",
+		s_tab_general = "Général",
 			s_logo_url_name = "Lien logo",
-			s_logo_url_hint = "Lien de l'imgage. Taille recommendée - 400x85 pixels",
+			s_logo_url_hint = "Lien de l'image. Taille recommandée - 400x85 pixels",
 			s_logo_w_name = "Largeur logo",
 			s_logo_h_name = "Hauteur logo",
 			s_subtitle_name = "Sous-titre",
